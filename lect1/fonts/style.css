@@ -1,0 +1,18 @@
+div p{
+    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: cursive;
+
+    /* font-size: 16px; */
+    /* font-size: 1rem; */
+    font-style: italic;
+    font-weight: lighter;
+}
+
+div{
+    font-size: 25px;
+}
+
+/* html{
+    font-size: 20px;
+} */
