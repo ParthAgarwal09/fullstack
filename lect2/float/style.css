@@ -1,0 +1,28 @@
+.child1{
+    height: 150px;
+    width: 100px;
+    border: 2px solid red;
+}
+
+.child2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+}
+
+
+.child1{
+    float: left;
+}
+
+.child2{
+    float: right;
+}
+
+.clearfix{
+    clear: left;
+}
+
+.container{
+    border: 2px solid green;
+}
