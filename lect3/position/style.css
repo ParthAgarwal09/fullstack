@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.child{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    float: left;
+}
+
+#child3{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+div.container{
+    height: 1200vh;
+    width: 60vw;
+    border: 2px solid green;
+    position: relative;
+}
+
+
+#child2{
+    position: absolute;
+    /* top: 40vw;
+    left: 40vw;
+    bottom: 40vw;
+    right: 40vw; */
+    bottom: 0px;
+    right: 0px;
+}
+
+/* works in respect of view port */
+
+#child1{ 
+    position: fixed;
+    right: 0px;
+}
+
+#child4{
+    position: sticky;
+    margin-top: 500px;
+    top: 0px;
+}
