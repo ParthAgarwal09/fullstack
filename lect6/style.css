@@ -1,0 +1,29 @@
+.main{
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.in1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    margin-left: 46px;
+    margin-top: 46px;
+    border-radius: 50%;
+    background-color: green;
+
+}
+
+.in2{
+    height: 50px;
+    width: 50px;
+    border: 2px solid blue;
+    margin-left: 22px;
+    margin-top: 22px;
+    border-radius: 50%;
+    background-color: blue;
+
+}
