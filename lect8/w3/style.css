@@ -1,0 +1,42 @@
+.navbar{
+    background-color: hsl(0, 0%, 0%);
+    font-size: 1.5rem;
+    height: 75px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#l1{
+    font-size: 1.5rem;
+    background-color: black;
+    color: azure;
+}
+
+#o1{
+    color: azure;
+    margin-left: 1500px;
+    display: flex;
+    align-items: center;
+}
+
+.image{
+    width: 100vw;
+    height: 800px;
+    background-image: url(bgim1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
